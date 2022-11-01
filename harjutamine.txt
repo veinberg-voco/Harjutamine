@@ -1,2 +1,4 @@
 GitHub, Inc. on Interneti-majutusteenus tarkvara arendamiseks ja versioonikontrolliks Giti abil. See pakub Git pluss juurdepääsukontrolli hajutatud versioonikontrolli, vigade jälgimist, tarkvara funktsioonide päringuid, ülesannete haldamist, pidevat integreerimist ja wikisid iga projekti jaoks.
 GitHub on veebisait arendajatele ja programmeerijatele, kes saavad koodi kallal koostööd teha.
+Minnes go to file ja pliiatsi peale vajutada. (ja saaksid muuta nüüd)
+Saaksid clonida githubi koodi ning viia projekt teele nt mäng või appi.
